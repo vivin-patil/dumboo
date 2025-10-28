@@ -991,7 +991,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 
-  font-family: "Calibri", "Segoe UI", Arial, sans-serif;
+  font-family: "Calibri";
   font-size: 5.8vmin; /* slightly smaller for mobile */
   font-weight: 700;
   color: #ffffff;
